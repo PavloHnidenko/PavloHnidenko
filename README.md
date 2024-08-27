@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+
+### short info
+  - he/him
+  - student at AUK
+  - software developer at COMFY
 
 <!--
 **PavloHnidenko/PavloHnidenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
