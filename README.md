@@ -1,9 +1,7 @@
-# Hi there 👋
-
-### short info
+## Short info
   - he/him
   - student at AUK
-  - software developer at COMFY
+  - software developer at COMFY (full stack .Net)
 
 <!--
 **PavloHnidenko/PavloHnidenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
